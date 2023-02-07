@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "val": "95%",
+    "valnow": 95,
+    "valmin": 0,
+    "valmax": 100
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "val": "85%",
+    "valnow": 85,
+    "valmin": 0,
+    "valmax": 100
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "val": "75%",
+    "valnow": 75,
+    "valmin": 0,
+    "valmax": 100
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "val": "55%",
+    "valnow": 55,
+    "valmin": 0,
+    "valmax": 100
+  }
+]

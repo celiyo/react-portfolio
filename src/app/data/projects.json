@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Horiseon - Landing Page",
+    "info": "HTML CSS Git Challenge",
+    "imgUrl": "https://raw.githubusercontent.com/celiyo/horiseon-landing-page/main/assets/images/screenshot.png",
+    "demoUrl": "https://celiyo.github.io/horiseon-landing-page/",
+    "gitUrl": "https://github.com/celiyo/horiseon-landing-page"
+  },
+  {
+    "id": 2,
+    "name": "Bootstrap Portfolio",
+    "info": "Portfolio using HTML, CSS and Bootstrap",
+    "imgUrl": "https://raw.githubusercontent.com/celiyo/bootstrap-portfolio/main/images/screenshot.png",
+    "demoUrl": "https://celiyo.github.io/bootstrap-portfolio/",
+    "gitUrl": "https://github.com/celiyo/bootstrap-portfolio"
+  },
+  {
+    "id": 3,
+    "name": "Password Generator",
+    "info": "Simple password generator",
+    "imgUrl": "https://raw.githubusercontent.com/celiyo/password-generator/main/assets/images/screenshot.png",
+    "demoUrl": "https://celiyo.github.io/password-generator/",
+    "gitUrl": "https://github.com/celiyo/password-generator"
+  },
+  {
+    "id": 4,
+    "name": "Daily Planner App",
+    "info": "A simple calendar application",
+    "imgUrl": "https://raw.githubusercontent.com/celiyo/daily-planner-app/main/assets/images/screenshot.png",
+    "demoUrl": "https://celiyo.github.io/daily-planner-app/",
+    "gitUrl": "https://github.com/celiyo/daily-planner-app"
+  },
+  {
+    "id": 5,
+    "name": "Weather Dashboard",
+    "info": "Weather outlook for multiple locations",
+    "imgUrl": "https://raw.githubusercontent.com/celiyo/weather-dashboard/main/assets/images/screenshot.png",
+    "demoUrl": "https://celiyo.github.io/weather-dashboard/",
+    "gitUrl": "https://github.com/celiyo/weather-dashboard"
+  },
+  {
+    "id": 6,
+    "name": "Frugality",
+    "info": "Simple password generator",
+    "imgUrl": "https://user-images.githubusercontent.com/115502589/212178447-000b9193-f632-42fd-8790-39122a3d20cf.png",
+    "demoUrl": "https://celiyo.github.io/frugality/",
+    "gitUrl": "https://github.com/celiyo/frugality"
+  }
+]
