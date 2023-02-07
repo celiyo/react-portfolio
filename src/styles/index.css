@@ -81,6 +81,13 @@ img {
   height: auto;
 }
 
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .custom-button {
   background: var(--pink);
   border: 0;
