@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className='navbar navbar-expand-lg navbar-light bg-light fixed-top'>
       <div className='container'>
-        <Link className='navbar-brand logo' to='/react-portfolio/'>
+        <Link className='navbar-brand logo' to='/'>
           <img src={logo} alt='Logo' />
         </Link>
         <button
@@ -23,7 +23,7 @@ const Header = () => {
           <ul className='navbar-nav ml-auto flex-nowrap'>
             <li className='nav-item'>
               <NavLink
-                to='/react-portfolio/'
+                to='/'
                 end
                 className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>
                 Home
@@ -31,14 +31,14 @@ const Header = () => {
             </li>
             <li className='nav-item'>
               <NavLink
-                to='/react-portfolio/projects'
+                to='/projects'
                 className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>
                 Projects
               </NavLink>
             </li>
             <li className='nav-item'>
               <NavLink
-                to='/react-portfolio/contact'
+                to='/contact'
                 className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>
                 Contact
               </NavLink>

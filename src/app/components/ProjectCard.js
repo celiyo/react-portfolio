@@ -7,7 +7,7 @@ const ProjectCard = ({ id, name, info, img }) => {
         <div className='card-body'>
           <img src={img} alt='Projects' />
           <h5 className='card-title mt-4'>
-            <Link to={`/react-portfolio/projects/${id}`}>{name}</Link>
+            <Link to={`/projects/${id}`}>{name}</Link>
           </h5>
           <p className='card-text'>{info}</p>
         </div>
