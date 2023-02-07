@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className='navbar navbar-expand-lg navbar-light bg-light fixed-top'>
       <div className='container'>
-        <Link className='navbar-brand logo' to='/'>
+        <Link className='navbar-brand logo' to='/react-portfolio/'>
           <img src={logo} alt='Logo' />
         </Link>
         <button
