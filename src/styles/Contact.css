@@ -1,0 +1,22 @@
+/**
+ * CONTACT SECTION
+ * ------------------------------------------------------------------------- */
+.contact-form {
+  padding: 0;
+  min-height: 50vh;
+  display: flex;
+  align-items: center;
+}
+
+.contact-cv {
+  margin-bottom: 3rem;
+}
+
+/**
+ * MEDIA QUERIES
+ * ------------------------------------------------------------------------- */
+@media (min-width: 768px) {
+  .contact-cv {
+    margin-bottom: 0;
+  }
+}

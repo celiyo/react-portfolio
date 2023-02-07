@@ -1,0 +1,31 @@
+/**
+ * HEADER SECTION
+ * ------------------------------------------------------------------------- */
+.navbar {
+  padding: 15px 0;
+}
+
+.logo img {
+  max-height: 40px;
+  width: auto;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: transparent !important;
+}
+
+.nav-link {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/**
+ * MEDIA QUERIES
+ * ------------------------------------------------------------------------- */
+@media (max-width: 575px) {
+  .navbar-expand-lg > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}

@@ -1,0 +1,17 @@
+/**
+ * PROJECTS SECTION
+ * ------------------------------------------------------------------------- */
+
+.projects .card {
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  padding: 20px 10px;
+}
+
+.card-body img {
+  height: 300px;
+  object-fit: cover;
+  object-position: left;
+  border: 3px solid var(--light-gray);
+}
