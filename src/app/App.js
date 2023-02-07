@@ -11,11 +11,11 @@ export default function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/home' element={<Home />} />
-        <Route path='/projects' element={<Projects />} />
-        <Route path='/projects/:id' element={<Project />} />
-        <Route path='/contact' element={<Contact />} />
+        <Route path='/react-portfolio/' element={<Home />} />
+        <Route path='/react-portfolio/home' element={<Home />} />
+        <Route path='/react-portfolio/projects' element={<Projects />} />
+        <Route path='/react-portfolio/projects/:id' element={<Project />} />
+        <Route path='/react-portfolio/contact' element={<Contact />} />
       </Routes>
       <Footer />
     </Router>
