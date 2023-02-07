@@ -6,7 +6,7 @@
 
 Personal Portfolio using React.
 
-[Application Demo](https://thriving-chaja-26262b.netlify.app/)
+[Application Demo](https://react-portfolio-dgnygsz9z-celiyo.vercel.app/)
 
 ![Application Screenshot](./src/assets/images/screenshot.png)
 
