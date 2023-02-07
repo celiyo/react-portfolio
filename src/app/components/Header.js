@@ -23,7 +23,7 @@ const Header = () => {
           <ul className='navbar-nav ml-auto flex-nowrap'>
             <li className='nav-item'>
               <NavLink
-                to='/'
+                to='/react-portfolio/'
                 end
                 className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>
                 Home
@@ -31,14 +31,14 @@ const Header = () => {
             </li>
             <li className='nav-item'>
               <NavLink
-                to='/projects'
+                to='/react-portfolio/projects'
                 className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>
                 Projects
               </NavLink>
             </li>
             <li className='nav-item'>
               <NavLink
-                to='/contact'
+                to='/react-portfolio/contact'
                 className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}>
                 Contact
               </NavLink>
