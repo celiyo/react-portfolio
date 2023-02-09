@@ -22,6 +22,10 @@
 }
 
 /* Hero large */
+.hero-large .row {
+  padding: 10rem 0 5rem 0;
+}
+
 .hero-text {
   align-items: center;
   display: flex;
@@ -34,7 +38,7 @@
 .hero-img {
   justify-content: center;
   order: 0;
-  padding-top: 5rem;
+  /* padding-top: 5rem; */
 }
 
 .hero-img img {
@@ -55,6 +59,10 @@
  * ------------------------------------------------------------------------- */
 @media (min-width: 768px) {
   /* Hero large */
+  .hero-large .row {
+    padding: 0;
+  }
+
   .hero-text {
     align-items: flex-start;
     order: 0;
